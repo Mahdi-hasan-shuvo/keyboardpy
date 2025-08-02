@@ -67,3 +67,14 @@ matches = on_screen_img_coordinate(screenshot, 'path_to_image.png', center_coord
 
 # Take a screenshot of a specific application window
 app_screenshot = screenshot_app_by_name('Application Title', save_path='screenshot.png')
+---
+
+## 💼 Contact Me for Paid Projects
+
+Have a project in mind or need expert help? I'm available for **freelance work and paid collaborations**. Let's bring your ideas to life with clean code and creative solutions.
+
+📩 **Email**: [shuvobbhh@gmail.com]  
+💬 **Telegram / WhatsApp**: [+8801616397082]  
+🌐 **Portfolio / Website**: [[Portfolio](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)]
+
+> *"Quality work speaks louder than words. Let's build something remarkable together."*
