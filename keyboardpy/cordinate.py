@@ -59,7 +59,7 @@ def text_to_cordnite(word_to_find):
     screenshot = screenshot.convert('RGB')
     data = pytesseract.image_to_data(screenshot, output_type=pytesseract.Output.DICT)
     coordinates = []
-    print(data)
+    # print(data)
 
     for i, word in enumerate(data['text']):
         if word.lower() == word_to_find.lower():  # Case-insensitive search
